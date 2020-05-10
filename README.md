@@ -18,11 +18,7 @@
     
   #### 2. 메뉴에 대한 설명 ####  
   - 1번은 record를 추가하는 기능을 가진 메뉴입니다.
-    1번을 입력했을 경우,  저장가능한 record의 수는 maximum 100으로 잡아두었는데 record의 개수가 100개가 넘어서 저장공간이 없는 경우에 
-                        There is no space!를 출력합니다.
-                        저장 공간이 있다면 object(물건), price(가격), count(수량), name(주문자)를 입력하고, 
-                        만약 동일한 object를 주문한 name이 있다면 Duplicated object&name!를 출력하고,
-                        모든 경우를 성공적으로 통과하여 record에 저장되었다면 Complete!를 출력합니다.
+    - 1번을 입력했을 경우,  저장가능한 record의 수는 maximum 100으로 잡아두었는데 record의 개수가 100개가 넘어서 저장공간이 없는 경우에 "There is no space!"를 출력합니다. 저장 공간이 있다면 object(물건), price(가격), count(수량), name(주문자)를 입력하고, 만약 동일한 object를 주문한 name이 있다면 "Duplicated object&name!"를 출력하고, 모든 경우를 성공적으로 통과하여 record에 저장되었다면 "Complete!"를 출력합니다.
     
     2번은 특정한 이름을 입력받아 해당하는 name을 가지고 있는 모든 record를 출력해주는 기능을 가진 메뉴입니다.
     2번을 입력했을 경우,  name을 입력하고 enter를 누르면 name을 가진 모든 record를 출력하는데, index도 같이 출력합니다.
