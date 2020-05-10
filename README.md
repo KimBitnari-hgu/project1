@@ -11,6 +11,7 @@
     
   3. make를 통해 만들어진 file들을 지우고 싶을 때에는 make clean 를 입력하여 remove해줍니다. 
 
+<hr>
 ### (2) project 실행방법 ###
     make를 통해 컴파일하고, ./main을 실행하였다면
     Menu : 1.Create 2.Read 3.Update 4.Delete 5.List 6.total_price 7.sort 8.import 9.Save 0.Quit > 이러한 메뉴판이 뜹니다.
