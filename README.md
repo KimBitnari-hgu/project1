@@ -8,7 +8,9 @@
   2. 이때, debuging을 볼 수 있도록 실행할 수있는데 make main_debug 를 입력라고 똑같이 ./main을 입력하면 이번에는 전과 다르게 debugging 문구들까지 출력되는 것을 확인할 수 있습니다.
     
   3. make를 통해 만들어진 file들을 지우고 싶을 때에는 make clean 를 입력하여 remove해줍니다. 
+
 <hr>
+
 ### (2) project 실행방법 ###  
   
   #### 1. 컴파일하고 실행하기 ####  
