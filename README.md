@@ -17,7 +17,7 @@
   - make를 통해 컴파일하고, ./main을 실행하였다면 "Menu : 1.Create 2.Read 3.Update 4.Delete 5.List 6.total_price 7.sort 8.import 9.Save 0.Quit > "이러한 메뉴판이 뜹니다. 원하는 기능에 해당하는 번호를 입력하시면 그 기능을 실행하게 됩니다.
     
   #### 2. 메뉴에 대한 설명 ####  
-  1번은 record를 추가하는 기능을 가진 메뉴입니다.
+  - 1번은 record를 추가하는 기능을 가진 메뉴입니다.
     1번을 입력했을 경우,  저장가능한 record의 수는 maximum 100으로 잡아두었는데 record의 개수가 100개가 넘어서 저장공간이 없는 경우에 
                         There is no space!를 출력합니다.
                         저장 공간이 있다면 object(물건), price(가격), count(수량), name(주문자)를 입력하고, 
